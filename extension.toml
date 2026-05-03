@@ -1,0 +1,7 @@
+id = "verdandi-theme"
+name = "Verdandi Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["emeraldsanto"]
+description = "A monochrome theme that can live without color. Ported from the VS Code Verdandi theme by be5invis. Includes light (Verdandi) and dark (Verdandi Alter) variants."
+repository = "https://github.com/emeraldsanto/zed-theme-verdandi"

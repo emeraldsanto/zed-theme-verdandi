@@ -7,6 +7,16 @@ Includes two variants:
 - **Verdandi** (light)
 - **Verdandi Alter** (dark)
 
+## Screenshots
+
+### Verdandi
+
+![Verdandi, the light variant](./screenshots/verdandi.png)
+
+### Verdandi Alter
+
+![Verdandi Alter, the dark variant](./screenshots/verdandi-alter.png)
+
 ## Installation
 
 Open the Extensions page in Zed (`zed: extensions`), search for "Verdandi Theme" and install it.
